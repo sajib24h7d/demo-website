@@ -1,0 +1,68 @@
+.color {
+    color: orange
+}
+
+.flexible-part-one {
+    display: flex;
+    padding-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2px;
+}
+
+.half-width img {
+    width: 560px;
+    height: 560px;
+
+}
+
+h1 {
+    font-size: 72px;
+}
+
+.color-two {
+    color: rgb(122, 120, 120);
+}
+
+.top-space {
+    padding-top: 70px;
+    margin-left: 50px;
+}
+
+.top-space-img {
+    padding-top: 60px;
+}
+
+p {
+    font-size: 29px;
+    color: rgb(122, 120, 120);
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 25px;
+    font-weight: 700;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.new-one {
+    padding-left: 70px;
+}
+
+.text-one {
+    font-size: 18px;
+    padding-right: 210px;
+}
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
