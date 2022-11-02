@@ -69,6 +69,7 @@ h2 {
     font-size: 22px;
     padding-right: 210px;
     padding-bottom: 60px;
+    font-size: 25px;
 }
 
 .top-banner {
@@ -95,4 +96,94 @@ h2 {
     padding-left: 400px;
     padding-right: 400px;
     font-size: 20px;
+}
+
+.flexible-part-three {
+    display: flex;
+
+}
+
+.image-last-part {
+    padding-left: 220px;
+    max-width: 600px;
+    max-height: 350px;
+}
+
+.image-last-part-two {
+    padding-left: 10px;
+    max-width: 600px;
+    max-height: 350px;
+}
+
+.title-one {
+    text-align: left;
+    font-size: 35px;
+    padding-left: 220px;
+}
+
+.title-two {
+    text-align: left;
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+.style-okk-one {
+    padding-left: 220px;
+    padding-right: 80px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.style-okk-two {
+    padding-left: 10px;
+    padding-right: 280px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.felxible-part-last {
+    display: flex;
+    padding-top: 100PX;
+}
+
+.fit-yes {
+    padding-left: 400px;
+    padding-right: 100px;
+}
+
+.fit-yes-two {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.fit-yes-three {
+    padding-left: 100px;
+    padding-right: 400px;
+}
+
+.fotter-css {
+    text-align: center;
+    background-color: rgb(17, 18, 29);
+}
+
+.heading {
+    font-size: 55px;
+}
+
+.paragraph {
+    font-size: 18px;
+}
+
+.color-three {
+    color: rgb(253, 139, 119);
+    font-size: 33px;
+}
+
+.color-four {
+    color: rgb(122, 120, 120);
+    font-size: 33px;
+}
+
+.last-para {
+    font-size: 16px;
 }
